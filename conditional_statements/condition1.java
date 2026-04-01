@@ -1,6 +1,8 @@
+package JAVA.conditional_statements;
+
 import java.util.*;
 
-public class condition1 {
+ public class condition1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
